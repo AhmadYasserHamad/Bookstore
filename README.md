@@ -51,7 +51,11 @@ Ensure your local development environment meets the following requirements:
    php artisan serve
 ## Key Directory Structure
 • app/: Contains the core logic, including Controllers and Eloquent Models.
+
 • database/: Houses database migrations, factories, and seeders.
+
 • resources/: Contains all Blade view templates and uncompiled raw assets.
+
 • routes/: Defines the web and API routing for the application.
+
 • Diagrams/: Contains project architecture documentation and Entity-Relationship Diagrams (ERDs).
